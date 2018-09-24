@@ -1,5 +1,5 @@
 # MachineLearningProj
 
-Please, please, just follow the link to RPubs below. I tried for 3 hours to get the html to publish on gh-pages, and I give up; life is too short.
+Just in case the compiled html doesn't show up, it can be viewed on Rpubs below.
 
 Rpubs: http://rpubs.com/El-Flac0/422556
